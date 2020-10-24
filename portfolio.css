@@ -1,10 +1,9 @@
 body {
-  background-image: url("drop.jpeg");
+  background-image: url("/pexels-scott-webb-3255761.jpg");
   font-family: sans-serif;
   padding-bottom: 40px;
  
 }
-
 
 h1 {
   color: rgb(39, 192, 179);
@@ -35,4 +34,13 @@ p {
   background-color: whitesmoke;
   text-align: center;
   color: rgb(39, 192, 179);
+}
+
+.row{
+margin-left: 30px;
+margin-right: 30px;
+}
+img {
+  width: 350px;
+  height: 350px;
 }
